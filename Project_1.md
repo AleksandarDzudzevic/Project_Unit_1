@@ -1,4 +1,5 @@
 # Crypto Wallet
+![](https://github.com/AleksandarDzudzevic/Project_ideas-plans/blob/main/solana-sol.gif)
 
 # Criteria A: Planning
 
