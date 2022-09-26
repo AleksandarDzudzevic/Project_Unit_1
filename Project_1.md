@@ -54,8 +54,8 @@ Justify the tools/structure of your solution
 | Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
 | 1       | Success Criteria                                       | Come to the agreement with the client about success criteria in order to start working                  | 45min         | Sep 23                 | A         |
-| 2     | Create system diagram                                         | To have a clear idea of the hardware and software requirements for the proposed solution                        | 10min         | Sep 24                 | B         |
-| 3    | Finalizing system diagram and consulting the client about possible changes in succes criteria| Having all the information needed in order to start working on the program |  60min        | Sep 26                 | A |    
+| 2     | Create system diagram                                         | To have a clear idea of the hardware and software requirements for the proposed solution                        | 25min         | Sep 26                | B         |
+| 3    | Finalizing project steps andconsulting the client about possible changes in succes criteria| Having all the information needed in order to start working on the program |  25min        | Sep 29                 | A |    
 |4   |  a |b |c|e |f
 |5  |  a |b |c|e |f
 |6   |  a |b |c|e |f
