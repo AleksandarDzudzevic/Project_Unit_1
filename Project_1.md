@@ -29,7 +29,7 @@ Justify the tools/structure of your solution
 # Criteria B: Design
 
 ## System Diagram
-
+![](https://github.com/AleksandarDzudzevic/Project_ideas-plans/blob/main/Project_1_fig_1_v1.jpg)
 ## Flow Diagrams
 
 
