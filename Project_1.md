@@ -42,7 +42,7 @@ Justify the tools/structure of your solution
 |4   |  Welcome tab unit(session 1) |Make a functional and well-organized welcome tab  |73min|Sep 29 |C
 |5  | Welcome tab unit(session 2) |Working on the wireframe of the program in order to have a clear and colorful welcome and login tab|45min|Sep 29 |C
 |6   |  Working on the signup and login option(session 1) |Have a functional login and signup system |30min|Sep 30 |C
-|7   | HASH the signup data |Make a functional hashing function in order to keep data of user/s safe and secure  |40min|Sep 30 |C
+|7   |  Working on the signup and login option(session 2) |Make a functional hashing function in order to keep data of user/s safe and secure  |40min|Sep 30 |C
 |8   |  a |b |c|e |f
 |9   |  a |b |c|e |f
 |10  |  a |b |c|e |f
