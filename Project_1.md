@@ -38,7 +38,7 @@ Justify the tools/structure of your solution
 |---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
 | 1       | Success Criteria                                       | Come to the agreement with the client about success criteria in order to start working                  | 45min         | Sep 23                 | A         |
 | 2     | Create system diagram                                         | To have a clear idea of the hardware and software requirements for the proposed solution                        | 25min         | Sep 26                | B         |
-| 3    |Meeting client's representative Dr.Ruben to discuss possible additions and changes to the program| Having all the information needed in order to start working on the program (Meeting info can be found on the repository) |  25min        | Sep 29                 | A |    
+| 3    |Meeting client's representative Dr.Ruben to discuss possible additions and changes to the program| Having all the information needed in order to start working on the program         (Meeting info can be found on the repository) |  25min        | Sep 29                 | A |    
 |4   |  Welcome tab unit(session 1) |Make a functional and well-organized welcome tab  |73min|Sep 29 |C
 |5  | Welcome tab unit(session 2) |Working on the wireframe of the program in order to have a clear and colorful welcome and login tab|45min|Sep 29 |C
 |6   |  Working on the signup and login option(session 1) |Have a functional login and signup system |30min|Sep 30 |C
