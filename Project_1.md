@@ -43,9 +43,9 @@ Justify the tools/structure of your solution
 |5  | Welcome tab unit(session 2) |Working on the wireframe of the program in order to have a clear and colorful welcome and login tab|45min|Sep 29 |C
 |6   |  Working on the signup and login option(session 1) |Have a functional login and signup system |30min|Sep 30 |C
 |7   |  Working on the signup and login option(session 2) |Make a functional hashing function in order to keep data of user/s safe and secure  |40min|Sep 30 |C
+|8   |  Main Menu Tab (session 1)| Have a main menu wireframe and setup everything needed for session 2 and the techinical part of menu|60min |Oct 1 |C
 |8   |  a |b |c|e |f
-|9   |  a |b |c|e |f
+|9  |  a |b |c|e |f
 |10  |  a |b |c|e |f
 |11  |  a |b |c|e |f
-|12  |  a |b |c|e |f
 
