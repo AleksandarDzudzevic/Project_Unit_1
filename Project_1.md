@@ -44,8 +44,8 @@ Justify the tools/structure of your solution
 |6   |  Working on the signup and login option(session 1) |Have a functional login and signup system |30min|Sep 30 |C
 |7   |  Working on the signup and login option(session 2) |Make a functional hashing function in order to keep data of user/s safe and secure  |40min|Sep 30 |C
 |8   |  Main Menu Tab (session 1)| Have a main menu wireframe and setup everything needed for session 2 and the techinical part of menu|60min |Oct 1 |C
-|8   |  a |b |c|e |f
-|9  |  a |b |c|e |f
+|9   |  Main Menu Tab (session 2) |Make a functioning deposit option |75min|Oct 1 |C
+|10 |   Main Menu Tab (session 3) |Make a functioning withdrawal option |82min|Oct 1/Oct 2|C
 |10  |  a |b |c|e |f
 |11  |  a |b |c|e |f
 
