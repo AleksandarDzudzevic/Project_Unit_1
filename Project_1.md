@@ -51,6 +51,6 @@ Justify the tools/structure of your solution
 |8   |  Main Menu Tab (session 1)| Have a main menu wireframe and setup everything needed for session 2 and the techinical part of menu|60min |Oct 1 |C
 |9   |  Main Menu Tab (session 2) |Make a functioning deposit option |75min|Oct 1 |C
 |10 |   Main Menu Tab (session 3) |Make a functioning withdrawal option |82min|Oct 1/Oct 2|C
-|10  |  a |b |c|e |f
-|11  |  a |b |c|e |f
+|11  |  Porfolio overview Tab (session 1) |Have all the messages and also withdrawal and deposit history option working properly  |40min|Oct 2 |C
+|12  |  Add the proposed solution |Work on the proposed solution text and explain the following: why MacBook Air if it could limit the program complexity and scalibilty? Why Python? Why Solana? |15min|Oct 2 |A
 
