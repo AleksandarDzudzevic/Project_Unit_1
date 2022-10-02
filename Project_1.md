@@ -5,14 +5,19 @@
 
 ## Problem definition
 
-Ms. Sato is a local trader who is interested in the emerging market of cryptocurrencies. She has started to buy and sell electronic currencies, however at the moment she is tracking all his transaction using a ledger in a spreadsheet which is starting to become burdensome and too disorganized. It is also difficult for Ms Sato to find past transactions or important statistics about the currency. Ms Sato is in need of a digital ledger that helps her track the amount of the cryptocurrency, the transactions, along with useful statistics. 
+Ms. Sato is a local trader who is interested in the emerging market of cryptocurrencies. She has started to buy and sell electronic currencies, however at the moment she is tracking all her transaction using an outdated method of a ledger in a spreadsheet which is starting to become burdensome and too disorganized. It is also difficult for Ms Sato to find past transactions or important statistics about the currency. Ms Sato is in need of a digital ledger that helps her track the amount of the cryptocurrency, the transactions, along with useful statistics. Ms. Sato would also apriciate if the ledger could help her with investing by warning her if the price is unusualy hig or low and if she should sell or buy.
 
 Apart for this requirements, Ms Sato is open to explore a cryptocurrency selected by the developer.
+
 
 ## Proposed Solution
 
 Design statement:
-I will to design and make a ———— for a client who is ———. The ——– will about ———— and is constructed using the software ———. It will take  ———- to make and will be evaluated according to the criteria ———.
+I will design and make a digital and easy to use crypto ledger for a client who is local crypto investor. The digital ledger will be about ———— and is constructed using Python 3.9 on PyCharm platform and it runs on M1 MacBook(2020) base model. The main reason why we chose this model instead of the better one which was available, becuase we at InveSOL believe that everyone should be able to invest easy, fast and safely using our program. It will take around 20-30 hours to make the version 1, after which it will be evaluated according to the criteria stated by the client. 
+
+Why Python? : The reason why we chose Python as the language that we will use for this is simple. It perfectly alligns with our values and main benefits of our program. It is beginner-friendly (one of the reasons why we added the InveSOL analisys so that even the beginners can invest at a high level). It is fast, just like our program which tries to make the execution time as fast as possible(ex. most while loops are replaced by a faster option (for)). Sky is the limit!!! Just like python which has so many features and cool options, InveSOL.py team aims to make InveSOL app that will constantly develop and get new features which will help more SOLANA investors reach theri goals.
+
+Solana...
 
 ** add a description of your coin and citation **
 
@@ -22,9 +27,9 @@ Justify the tools/structure of your solution
 1. The electronic ledger is a text-based software (Runs in the Terminal). 
 2. The electronic ledger display the basic description of the cyrptocurrency selected. 
 3. The electronic ledger allows to enter, withdraw and record transactions.
-4. The electronic ledger has login and sign up option, allowing privacy of information for each user. The database containing asswords will be HASHED, which is why InveSOL is a perfect choice for you if you value security of your data and crypto.
-5. The electronic ledger asks the real time price of the coin and then the electronic ledger shows the porfolio value change by using colored and user friendly method of (%) calculating and displaying the : value of current porfolio|(total amount invested+/- expenses in usd$)  x100% using the price change from the last SOL price input.
-6. Tracker of the expenses with the value displayed in ¥ and $ allowing user to choose the currency they prefer, and also in crypto value(using the latest value input of SOL)(Possibly a colored graph as well)
+4. The electronic ledger has login and sign up option, allowing privacy of information for each user. The database containing asswords will be encrypted, which is why InveSOL is a perfect choice for you if you value security of your data and crypto.
+5. The electronic ledger asks the real time price of the coin and then the electronic ledger shows the porfolio value change by using colored and user friendly method of (%) calculating and displaying the : value of current porfolio|(total amount invested(deposits)- expenses in usd$(withdrawls))x100% using the price change from the last SOL price input.
+6. Tracker of the expenses with the value displayed in ¥ and $ allowing user to choose the currency they prefer, and also in crypto value(using the latest value input of SOL) with an adition of a colored representation as well.
 7. The ledger analysis the porfolio change and withdrawal and deposit history, and then gives some of the following suggestions: Warning for spending crypto while its price is one of the lowest ever inputed, or saying that its a good time to exchange it to real money. (basically DCA with a conclusion)
 # Criteria B: Design
 
