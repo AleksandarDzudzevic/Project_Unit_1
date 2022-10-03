@@ -5,7 +5,7 @@
 
 ## Problem definition
 
-Ms. Sato is a local trader who is interested in the emerging market of cryptocurrencies. She has started to buy and sell electronic currencies, however at the moment she is tracking all her transaction using an outdated method of a ledger in a spreadsheet which is starting to become burdensome and too disorganized. It is also difficult for Ms Sato to find past transactions or important statistics about the currency. Ms Sato is in need of a digital ledger that helps her track the amount of the cryptocurrency, the transactions, along with useful statistics. Ms. Sato would also apriciate if the ledger could help her with investing by warning her if the price is unusualy hig or low and if she should sell or buy.
+Ms. Sato is a local trader who is interested in the emerging market of cryptocurrencies. She has started to buy and sell electronic currencies, however at the moment she is tracking all her transaction using an outdated method of a ledger in a spreadsheet which is starting to become burdensome and too disorganized. It is also difficult for Ms Sato to find past transactions or important statistics about the currency. Ms Sato is in need of a digital ledger that helps her track the amount of the cryptocurrency, the transactions, along with useful statistics. Ms. Sato would also apriciate if the ledger could help her with investing by warning her if the price is unusualy high or low and if she should sell or buy. The ledger is developed in order to help investors like Ms.Sato switch from old to newer and easir ways to track their investments and get acces to different analytics. 
 
 Apart for this requirements, Ms Sato is open to explore a cryptocurrency selected by the developer.
 
