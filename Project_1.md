@@ -12,7 +12,7 @@ Apart for this requirements, Ms Sato is open to explore a cryptocurrency selecte
 
 ## Proposed Solution
 
-I will design and make a digital and easy to use crypto ledger for a client who is local crypto investor. The digital ledger will be about ———— and is constructed using Python 3.9 on PyCharm platform and it runs on M1 MacBook(2020) base model. The main reason why we chose this model instead of the better one which was available, becuase we at InveSOL believe that everyone should be able to invest easy, fast and safely using our program. It will take around 15-20 hours to make the version 1, after which it will be evaluated according to the criteria stated by the client. 
+I will design and make a digital and easy to use crypto ledger for a client who is local crypto investor. The digital ledger will be about ———— and is constructed using Python 3.9 on PyCharm platform and it runs on M1 MacBook(2020) base model. The main reason why we chose this laptop model instead of the better one which was available, becuase we at InveSOL believe that everyone should be able to invest easily, fast and safely using our program. It will take around 15-20 hours to make the version 1, after which it will be evaluated according to the criteria stated by the client. 
 
 Why Python? : The reason why we chose Python as the language that we will use for this is simple. It perfectly alligns with our values and main benefits of our program. It is beginner-friendly (one of the reasons why we added the InveSOL analisys so that even the beginners can invest at a high level). It is fast, just like our program which tries to make the execution time as fast as possible(ex. most while loops are replaced by a faster option (for)).
    
