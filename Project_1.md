@@ -28,8 +28,33 @@ Compared to it's competitors, Solana performs it's transactions at much faster s
 The avarage transaction fee sits at avarage of only $0.00025 with not a single one being more than 0.01$ which makes it a perfect choice for both part-time and full-time crypto investors.
 ###### SECURE
 With more than 2500 transatcions per second, and more than 100 BILLION successful transations,The Solana network is spread over thousands of independent nodes — which means that your transactions are always safe. The safety of your assets is the number ONE priority.
-Justify the tools/structure of your solution
-Resources'Solana.com'/
+
+### Resources: 
+Article title:Why Learn Python? Reasons and Benefits of Learning Python
+URL: 
+https://www.simplilearn.com/why-learn-python-a-guide-to-unlock-your-python-career-article
+
+Website title: 
+Simplilearn.com
+
+Date accessed: 
+October 3, 2022
+
+Date published: 
+September 08, 2022
+
+Article title:
+Scalable Blockchain Infrastructure: Billions of transactions & counting: Solana: Build crypto apps that scale
+
+URL:
+https://solana.com/
+
+Website title:
+Solana
+
+Date accessed:
+October 3, 2022
+
 ## Success Criteria
 1. The electronic ledger is a text-based software (Runs in the Terminal). 
 2. The electronic ledger display the basic description of the cyrptocurrency selected. 
