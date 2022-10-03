@@ -29,7 +29,7 @@ Justify the tools/structure of your solution
 3. The electronic ledger allows to enter, withdraw and record transactions.
 4. The electronic ledger has login and sign up option, allowing privacy of information for each user. The database containing asswords will be encrypted, which is why InveSOL is a perfect choice for you if you value security of your data and crypto.
 5. The electronic ledger asks the real time price of the coin and then the electronic ledger shows the porfolio value change by using colored and user friendly method of (%) calculating and displaying the : value of current porfolio|(total amount invested(deposits)- expenses in usd$(withdrawls))x100% using the price change from the last SOL price input.
-6. Tracker of the expenses with the value displayed in ¥ and $ allowing user to choose the currency they prefer, and also in crypto value(using the latest value input of SOL) with an adition of a colored representation as well.
+6. The electronic ledger allows user to see their deposit and withdrawal history, allowing them to have all information needed in one place.
 7. The ledger analysis the porfolio change and withdrawal and deposit history, and then gives some of the following suggestions: Warning for spending crypto while its price is one of the lowest ever inputed, or saying that its a good time to exchange it to real money. (basically DCA with a conclusion)
 # Criteria B: Design
 
