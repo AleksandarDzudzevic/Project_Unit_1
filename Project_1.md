@@ -12,17 +12,24 @@ Apart for this requirements, Ms Sato is open to explore a cryptocurrency selecte
 
 ## Proposed Solution
 
-Design statement:
 I will design and make a digital and easy to use crypto ledger for a client who is local crypto investor. The digital ledger will be about ———— and is constructed using Python 3.9 on PyCharm platform and it runs on M1 MacBook(2020) base model. The main reason why we chose this model instead of the better one which was available, becuase we at InveSOL believe that everyone should be able to invest easy, fast and safely using our program. It will take around 15-20 hours to make the version 1, after which it will be evaluated according to the criteria stated by the client. 
 
 Why Python? : The reason why we chose Python as the language that we will use for this is simple. It perfectly alligns with our values and main benefits of our program. It is beginner-friendly (one of the reasons why we added the InveSOL analisys so that even the beginners can invest at a high level). It is fast, just like our program which tries to make the execution time as fast as possible(ex. most while loops are replaced by a faster option (for)). Sky is the limit!!! Just like python which has so many features and cool options, InveSOL.py team aims to make InveSOL app that will constantly develop and get new features which will help more SOLANA investors reach theri goals.
 
-Solana...
-
-** add a description of your coin and citation **
-
+## Crypto choice
+Like previously mentioned, Ms.Sato is open to explore crypto currency of developers choice, and we at InveSOL chose SOLANA.
+ ### Solana 
+Solana is a blockchain platform designed to host decentralized, scalable applications. Solana can process many more transactions per second and charges lower transaction fees than rival blockchains like Ethereum.
+#### Why SOLANA
+Very similar to why we chose Python, SOLANA's best qualities allign with what we at InveSOL are trying to achieve. 
+###### FAST
+Compared to it's competitors, Solana performs it's transactions at much faster speed with amazing 400 millisecond block times. And as hardware gets faster, so does the network.
+###### CHEAP 
+The avarage transaction fee sits at avarage of only $0.00025 with not a single one being more than 0.01$ which makes it a perfect choice for both part-time and full-time crypto investors.
+###### SECURE
+With more than 2500 transatcions per second, and more than 100 BILLION successful transations,The Solana network is spread over thousands of independent nodes — which means that your transactions are always safe. The safety of your assets is the number ONE priority.
 Justify the tools/structure of your solution
-
+Resources'Solana.com'/
 ## Success Criteria
 1. The electronic ledger is a text-based software (Runs in the Terminal). 
 2. The electronic ledger display the basic description of the cyrptocurrency selected. 
