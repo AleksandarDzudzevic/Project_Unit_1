@@ -13,7 +13,7 @@ Apart for this requirements, Ms Sato is open to explore a cryptocurrency selecte
 ## Proposed Solution
 
 Design statement:
-I will design and make a digital and easy to use crypto ledger for a client who is local crypto investor. The digital ledger will be about ———— and is constructed using Python 3.9 on PyCharm platform and it runs on M1 MacBook(2020) base model. The main reason why we chose this model instead of the better one which was available, becuase we at InveSOL believe that everyone should be able to invest easy, fast and safely using our program. It will take around 20-30 hours to make the version 1, after which it will be evaluated according to the criteria stated by the client. 
+I will design and make a digital and easy to use crypto ledger for a client who is local crypto investor. The digital ledger will be about ———— and is constructed using Python 3.9 on PyCharm platform and it runs on M1 MacBook(2020) base model. The main reason why we chose this model instead of the better one which was available, becuase we at InveSOL believe that everyone should be able to invest easy, fast and safely using our program. It will take around 15-20 hours to make the version 1, after which it will be evaluated according to the criteria stated by the client. 
 
 Why Python? : The reason why we chose Python as the language that we will use for this is simple. It perfectly alligns with our values and main benefits of our program. It is beginner-friendly (one of the reasons why we added the InveSOL analisys so that even the beginners can invest at a high level). It is fast, just like our program which tries to make the execution time as fast as possible(ex. most while loops are replaced by a faster option (for)). Sky is the limit!!! Just like python which has so many features and cool options, InveSOL.py team aims to make InveSOL app that will constantly develop and get new features which will help more SOLANA investors reach theri goals.
 
@@ -50,7 +50,12 @@ Justify the tools/structure of your solution
 |7   |  Working on the signup and login option(session 2) |Make a functional hashing function in order to keep data of user/s safe and secure  |40min|Sep 30 |C
 |8   |  Main Menu Tab (session 1)| Have a main menu wireframe and setup everything needed for session 2 and the techinical part of menu|60min |Oct 1 |C
 |9   |  Main Menu Tab (session 2) |Make a functioning deposit option |75min|Oct 1 |C
-|10 |   Main Menu Tab (session 3) |Make a functioning withdrawal option |82min|Oct 1/Oct 2|C
+|10 |   Main Menu Tab (session 3) |Make a functioning withdrawal option |52min|Oct 1/Oct 2|C
 |11  |  Porfolio overview Tab (session 1) |Have all the messages and also withdrawal and deposit history option working properly  |40min|Oct 2 |C
 |12  |  Add the proposed solution |Work on the proposed solution text and explain the following: why MacBook Air if it could limit the program complexity and scalibilty? Why Python? Why Solana? |15min|Oct 2 |A
-
+|13|Porfolio overview Tab(session 2)|Have the colored display of the porfolio change working properly, and make all the database information useful|65min|Oct 3|C
+|13|||||
+|13|||||
+|13|||||
+|13|||||
+|13|||||
