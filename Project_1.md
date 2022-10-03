@@ -31,6 +31,7 @@ With more than 2500 transatcions per second, and more than 100 BILLION successfu
 
 ### Resources: 
 Article title:Why Learn Python? Reasons and Benefits of Learning Python
+-------------
 URL: 
 https://www.simplilearn.com/why-learn-python-a-guide-to-unlock-your-python-career-article
 
@@ -45,7 +46,7 @@ September 08, 2022
 
 Article title:
 Scalable Blockchain Infrastructure: Billions of transactions & counting: Solana: Build crypto apps that scale
-
+----------
 URL:
 https://solana.com/
 
@@ -84,10 +85,10 @@ October 3, 2022
 |9   |  Main Menu Tab (session 2) |Make a functioning deposit option |75min|Oct 1 |C
 |10 |   Main Menu Tab (session 3) |Make a functioning withdrawal option |52min|Oct 1/Oct 2|C
 |11  |  Porfolio overview Tab (session 1) |Have all the messages and also withdrawal and deposit history option working properly  |40min|Oct 2 |C
-|12  |  Add the proposed solution |Work on the proposed solution text and explain the following: why MacBook Air if it could limit the program complexity and scalibilty? Why Python? Why Solana? |15min|Oct 2 |A
+|12  |  Add the proposed solution(session 1) |Work on the proposed solution text and explain the following: why MacBook Air if it could limit the program complexity and scalibilty? Why Python? Why Solana? |15min|Oct 2 |A
 |13|Porfolio overview Tab(session 2)|Have the colored display of the porfolio change working properly, and make all the database information useful|65min|Oct 3|C
-|13|||||
-|13|||||
+|14|Add the proposed solution (session 2)|Finish the proposed solution, answer all the question mentioned above25min|Oct 3|A
+|15|Add resources used to gather information|Att citations for websites used for the project|5min|Oct 3|A
 |13|||||
 |13|||||
 |13|||||
