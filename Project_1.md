@@ -87,7 +87,7 @@ October 3, 2022
 |11  |  Porfolio overview Tab (session 1) |Have all the messages and also withdrawal and deposit history option working properly  |40min|Oct 2 |C
 |12  |  Add the proposed solution(session 1) |Work on the proposed solution text and explain the following: why MacBook Air if it could limit the program complexity and scalibilty? Why Python? Why Solana? |15min|Oct 2 |A
 |13|Porfolio overview Tab(session 2)|Have the colored display of the porfolio change working properly, and make all the database information useful|65min|Oct 3|C
-|14|Add the proposed solution (session 2)|Finish the proposed solution, answer all the question mentioned above25min|Oct 3|A
+|14|Add the proposed solution (session 2)|Finish the proposed solution, answer all the question mentioned above|25min|Oct 3|A
 |15|Add resources used to gather information|Att citations for websites used for the project|5min|Oct 3|A
 |13|||||
 |13|||||
