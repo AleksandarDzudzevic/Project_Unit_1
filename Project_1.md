@@ -60,9 +60,9 @@ October 3, 2022
 
 ## Success Criteria
 1. The electronic ledger is a text-based software (Runs in the Terminal). 
-2. The electronic ledger display the basic description of the cyrptocurrency selected. 
+2. The electronic ledger display the basic description of the cryptocurrency selected. 
 3. The electronic ledger allows to enter, withdraw and record transactions.
-4. The electronic ledger has login and sign up option, allowing privacy of information for each user. The database containing asswords will be encrypted, which is why InveSOL is a perfect choice for you if you value security of your data and crypto.
+4. The electronic ledger has login and sign up option, allowing privacy of information for each user. The database containing asswords will be encrypted using advanced hashing, which is why InveSOL is a perfect choice for you if you value security of your data and crypto.
 5. The electronic ledger asks the real time price of the coin and then the electronic ledger shows the porfolio value change by using colored and user friendly method of (%) calculating and displaying the : value of current porfolio|(total amount invested(deposits)- expenses in usd$(withdrawls))x100% using the price change from the last SOL price input.
 6. The electronic ledger allows user to see their deposit and withdrawal history, allowing them to have all information needed in one place.
 7. The ledger analysis the porfolio change and withdrawal and deposit history, and then gives some of the following suggestions: Warning for spending crypto while its price is one of the lowest ever inputed, or saying that its a good time to exchange it to real money. (basically DCA with a conclusion)
@@ -92,6 +92,6 @@ October 3, 2022
 |13|Porfolio overview Tab(session 2)|Have the colored display of the porfolio change working properly, and make all the database information useful|65min|Oct 3|C
 |14|Add the proposed solution (session 2)|Finish the proposed solution, answer all the question mentioned above|25min|Oct 3|A
 |15|Add resources used to gather information|Att citations for websites used for the project|5min|Oct 3|A
-|13|||||
-|13|||||
+|16|Porfolio overview Tab(session 3)|Have a funcitonal analysis of the current profolio change displayed in %|35min|Oct 4|c
+|17|Making a program option so it can run until the user inputs the exit option|Have an optionj to use multiple tools in one run until user presses 0 to exit|30min|Oct 4|C
 |13|||||
