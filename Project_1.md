@@ -27,7 +27,7 @@ Very similar to why we chose Python, SOLANA's best qualities allign with what we
 ###### FAST
 Compared to it's competitors, Solana performs it's transactions at much faster speed with amazing 400 millisecond block times. And as hardware gets faster, so does the network.
 ###### CHEAP 
-The avarage transaction fee sits at avarage of only $0.00025 with not a single one being more than 0.01$ which makes it a perfect choice for both part-time and full-time crypto investors.
+The avarage transaction fee sits at avarage of only $0.00025 with not a single one being more than 0.01 which makes it a perfect choice for both part-time and full-time crypto investors.
 ###### SECURE
 With more than 2500 transatcions per second, and more than 100 BILLION successful transations,The Solana network is spread over thousands of independent nodes — which means that your transactions are always safe. The safety of your assets is the number ONE priority.
 
