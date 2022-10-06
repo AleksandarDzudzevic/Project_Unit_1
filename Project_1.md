@@ -12,7 +12,7 @@ Apart for this requirements, Ms Sato is open to explore a cryptocurrency selecte
 
 ## Proposed Solution
 
-I will design and make a digital and easy to use crypto ledger for a client who is local crypto investor. The digital ledger will be about ———— and is constructed using Python 3.9 on PyCharm platform and it runs on M1 MacBook(2020) base model. The main reason why we chose this laptop model instead of the better one which was available, becuase we at InveSOL believe that everyone should be able to invest easily, fast and safely using our program. It will take around 15-20 hours to make the version 1, after which it will be evaluated according to the criteria stated by the client. 
+I will design and make a digital and easy to use crypto ledger for a client who is local crypto investor. The digital ledger will consist of nine different programs with a total of about 583 lines and 3 databases storing following data(1. ultra encrypted passwords and usernames,2.deposits,3.withdrawals) and are all connected to the main program, which makes it easier to debug and will help developers identify potentional bugs in a very short amount of time. It is constructed using Python 3.9 on PyCharm platform and it runs on M1 MacBook(2020) base model. The main reason why we chose this laptop model instead of the better one which was available to us, becuase we at InveSOL believe that everyone should be able to invest easily, fast and safely using our program. It will take around 15-20 hours to make the version 1, after which it will be evaluated according to the success criteria stated by the client. 
 
 Why Python? : The reason why we chose Python as the language that we will use for this is simple. It perfectly alligns with our values and main benefits of our program. It is beginner-friendly (one of the reasons why we added the InveSOL analisys so that even the beginners can invest at a high level). It is fast, just like our program which tries to make the execution time as fast as possible(ex. most while loops are replaced by a faster option (for)).
    
@@ -31,9 +31,9 @@ The avarage transaction fee sits at avarage of only $0.00025 with not a single o
 ###### SECURE
 With more than 2500 transatcions per second, and more than 100 BILLION successful transations,The Solana network is spread over thousands of independent nodes — which means that your transactions are always safe. The safety of your assets is the number ONE priority.
 
-### Resources: 
+### Resources(Mla citations): 
 Article title:Why Learn Python? Reasons and Benefits of Learning Python
--------------
+
 URL: 
 https://www.simplilearn.com/why-learn-python-a-guide-to-unlock-your-python-career-article
 
@@ -48,7 +48,7 @@ September 08, 2022
 
 Article title:
 Scalable Blockchain Infrastructure: Billions of transactions & counting: Solana: Build crypto apps that scale
-----------
+
 URL:
 https://solana.com/
 
@@ -62,9 +62,9 @@ October 3, 2022
 1. The electronic ledger is a text-based software (Runs in the Terminal). 
 2. The electronic ledger display the basic description of the cryptocurrency selected. 
 3. The electronic ledger allows to enter, withdraw and record transactions.
-4. The electronic ledger has login and sign up option, allowing privacy of information for each user. The database containing asswords will be encrypted using advanced hashing, which is why InveSOL is a perfect choice for you if you value security of your data and crypto.
+4. The electronic ledger has login and sign up option, allowing privacy of information for each user. The database containing passwords will be encrypted using advanced hashing, which is why InveSOL is a perfect choice for you if you value security of your data and crypto.
 5. The electronic ledger asks the real time price of the coin and then the electronic ledger shows the porfolio value change by using colored and user friendly method of (%) calculating and displaying the : value of current porfolio|(total amount invested(deposits)- expenses in usd$(withdrawls))x100% using the price change from the last SOL price input.
-6. The electronic ledger allows user to see their deposit and withdrawal history, allowing them to have all information needed in one place.
+6. The electronic ledger allows user to see their deposit and withdrawal history, allowing them to have all relevant information needed at one place.
 7. The ledger analysis the porfolio change and withdrawal and deposit history, and then gives some of the following suggestions: Warning for spending crypto while its price is one of the lowest ever inputed, or saying that its a good time to exchange it to real money. (basically DCA with a conclusion)
 8. The ledger will offer basic information about SOL and why we at InveSOL chose it as our crypto.
 # Criteria B: Design
@@ -73,6 +73,7 @@ October 3, 2022
 ![](https://github.com/AleksandarDzudzevic/Project_ideas-plans/blob/main/Project_1_fig_1_v1.jpg)
 ## Flow Diagrams
 
+## Test plan
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
@@ -92,6 +93,15 @@ October 3, 2022
 |13|Porfolio overview Tab(session 2)|Have the colored display of the porfolio change working properly, and make all the database information useful|65min|Oct 3|C
 |14|Add the proposed solution (session 2)|Finish the proposed solution, answer all the question mentioned above|25min|Oct 3|A
 |15|Add resources used to gather information|Att citations for websites used for the project|5min|Oct 3|A
-|16|Porfolio overview Tab(session 3)|Have a funcitonal analysis of the current profolio change displayed in %|35min|Oct 4|c
+|16|Porfolio overview Tab(session 3)|Have a funcitonal analysis of the current profolio change displayed in %|35min|Oct 4|C
 |17|Making a program option so it can run until the user inputs the exit option|Have an optionj to use multiple tools in one run until user presses 0 to exit|30min|Oct 4|C
-|13|||||
+|18|Information on Solana and InveSOL.py (session 1)|Write basic desription explaining our choises at InveSOL and a short introduction to Solana crypto|10min|Oct 6|C
+|19|InveSOL analysis Tab (session 1)|Have a first version of the function which will take and module the needed data in order to analyse and give output data which is relavanted to the investing decisions|40min|Oct 6|C
+|20|||||
+|21|||||
+|22|||||
+|23|||||
+|24|||||
+|25|||||
+|26|||||
+|27|||||
