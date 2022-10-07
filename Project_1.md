@@ -97,8 +97,8 @@ October 3, 2022
 |17|Making a program option so it can run until the user inputs the exit option|Have an optionj to use multiple tools in one run until user presses 0 to exit|30min|Oct 4|C
 |18|Information on Solana and InveSOL.py (session 1)|Write basic desription explaining our choises at InveSOL and a short introduction to Solana crypto|10min|Oct 6|C
 |19|InveSOL analysis Tab (session 1)|Have a first version of the function which will take and module the needed data in order to analyse and give output data which is relavanted to the investing decisions|40min|Oct 6|C
-|20|||||
-|21|||||
+|20|InveSol analysis Tab (session 2)|Finish the last feature of Invesol v1 and plug it in the main program|30min|Oct 7|C
+|21|Finishing touch (session 1)|Improve user instructions by using suggestions from testings performed by test users|10min|Oct 7|C
 |22|||||
 |23|||||
 |24|||||
