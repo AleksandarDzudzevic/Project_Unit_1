@@ -66,7 +66,6 @@ October 3, 2022
 5. The electronic ledger asks the real time price of the coin and then the electronic ledger shows the porfolio value change by using colored and user friendly method of (%) calculating and displaying the : value of current porfolio|(total amount invested(deposits)- expenses in usd$(withdrawls))x100% using the price change from the last SOL price input.
 6. The electronic ledger allows user to see their deposit and withdrawal history, allowing them to have all relevant information needed at one place.
 7. The ledger analysis the porfolio change and withdrawal and deposit history, and then gives some of the following suggestions: Warning for spending crypto while its price is one of the lowest ever inputed, or saying that its a good time to exchange it to real money. (basically DCA with a conclusion)
-8. The ledger will offer basic information about SOL and why we at InveSOL chose it as our crypto.
 # Criteria B: Design
 
 ## System Diagram
