@@ -56,6 +56,15 @@ Arora, Shivam. “Why Learn Python? Reasons and Benefits of Learning Python.” 
 ![](https://github.com/AleksandarDzudzevic/Project_ideas-plans/blob/main/Project_1_fig_1_v1.jpg)
 ## Flow Diagrams
 
+### Deposit function flow chart 
+![](https://github.com/AleksandarDzudzevic/Project_ideas-plans/blob/main/Deposit%20function%20flow%20chart.jpg)
+
+### Deposit history flow chart
+![](https://github.com/AleksandarDzudzevic/Project_ideas-plans/blob/main/Deposit%20history%20flow%20chart.jpg)
+
+### Porfolio Change flow chart
+![](https://github.com/AleksandarDzudzevic/Project_ideas-plans/blob/main/portfolio%20change%20flow%20chart.jpg)
+
 ## Test plan
 | Task No |        Test type            |          Specific type               |        Planned outcome|       Procedure          |           Outcome           |
 |---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
