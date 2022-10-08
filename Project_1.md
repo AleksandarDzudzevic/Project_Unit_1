@@ -109,6 +109,35 @@ Arora, Shivam. “Why Learn Python? Reasons and Benefits of Learning Python.” 
 
 # Criteria C: Development
 
+## Tools used in Project 1
+Functions
+
+For/while loops
+
+Input Validation
+
+If statements
+
+High-level Encryption
+
+Databases for password,deposit, and withdrawals storing
+
+Reading of database information
+
+Rounding of significant figures function
+
+Links with current crypto price
+
+Text coloring
+
+Ascii number checking 
+
+Ascii art for messages in every function of code
+
+
+
+
+
 
 ## Client asked for stable and secure login system (Added the register option)
 ```.py
