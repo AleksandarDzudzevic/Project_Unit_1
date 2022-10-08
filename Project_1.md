@@ -110,7 +110,7 @@ Arora, Shivam. “Why Learn Python? Reasons and Benefits of Learning Python.” 
 # Criteria C: Development
 ## Functions from the program & problems which they solved
 
-### Client asked for stable and secure login system (Added the register option)
+## Client asked for stable and secure login system (Added the register option)
 ```.py
 import hmac
 from PROJECT_1_porfolio_change import porfolio_change
@@ -217,7 +217,7 @@ def log_reg(option:int):
         if login(user,hashed_pass)==True:
             print(f"{bold_green}LOGIN WAS SUCCESSFUL{end_code}".center(50,"✅"))
 ```
-### At the meeting 1 with the client representative Dr. Ruben developers found out that security is the no.1 priority of Ms. Sato (Last thing in the meeting notes found in the appendix of criteria A) 
+## At the meeting 1 with the client representative Dr. Ruben, developers found out that security is the no.1 priority of Ms. Sato (Last thing in the meeting notes found in the appendix of criteria A) 
 ```.py
   if option==1:
         print(asciilogin())
@@ -238,7 +238,7 @@ def log_reg(option:int):
 the super encryption is pointed using ----->
 #### Example of encrypted passwords
 ![](https://github.com/AleksandarDzudzevic/Project_ideas-plans/blob/main/Project_1_hashing.png)
-### Success criteria (5) and (6) stated a need for an option that allows user to see deposit/withdrawal history and porfolio change, and we at InveSOL did just that
+## Success criteria (5) and (6) stated a need for an option that allows user to see deposit/withdrawal history and porfolio change, and we at InveSOL did just that
 ```.py
 end_code = "\033[00m"
 red = "\33[0;31m"
