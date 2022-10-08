@@ -96,3 +96,20 @@ Arora, Shivam. “Why Learn Python? Reasons and Benefits of Learning Python.” 
 |25|||||
 |26|||||
 |27|||||
+
+
+
+
+
+
+
+
+
+
+
+# Criteria C: Development
+## Functions from the program & problems which they solved
+
+## Appendix
+MLA citation of websites used for the code
+“HMAC - Keyed-Hashing for Message Authentication¶.” Hmac - Keyed-Hashing for Message Authentication - Python 3.10.7 Documentation, https://docs.python.org/3/library/hmac.html. + Alesandro's help setting it up
