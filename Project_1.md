@@ -97,10 +97,10 @@ October 3, 2022
 |18|Information on Solana and InveSOL.py (session 1)|Write basic desription explaining our choises at InveSOL and a short introduction to Solana crypto|10min|Oct 6|C
 |19|InveSOL analysis Tab (session 1)|Have a first version of the function which will take and module the needed data in order to analyse and give output data which is relavanted to the investing decisions|40min|Oct 6|C
 |20|InveSol analysis Tab (session 2)|Finish the last feature of Invesol v1 and plug it in the main program|30min|Oct 7|C
-|21|Finishing touch (session 1)|Improve user instructions by using suggestions from testings performed by test users|10min|Oct 7|C
-|22|||||
-|23|||||
-|24|||||
+|21|Testing (session 1)|Analyze 3 non-functional testings (1 performance and 2 usability testings) performed by test users and make notes which will help will later code modifications|30min|Oct 7|B
+|22|Finishing touch (session 1)|Improve user instructions by using suggestions from non-functional testings performed by test users earlier today|15 min|Oct7|C
+|23|Testing (session 2)|Analyze 3 functional testings(1 Unit Testing(menu_tab),1 Integration Testing(integrating final part of the priogram and pluging everything into the main), and 1 full System testing) and take notes which will later on help with final code modification|20min|Oct 8|B
+|24|Finishing touch (session 2)|Implement notes taken from (23) functional tests and officially finish InveSol.py v1|30min|Oct 8|C
 |25|||||
 |26|||||
 |27|||||
