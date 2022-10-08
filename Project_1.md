@@ -39,10 +39,10 @@ With more than 2500 transatcions per second, and more than 100 BILLION successfu
 5. The electronic ledger asks the real time price of the coin and then the electronic ledger shows the porfolio value change by using colored and user friendly method of (%) calculating and displaying the : value of current porfolio|(total amount invested(deposits)- expenses in usd$(withdrawls))x100% using the price change from the last SOL price input.
 6. The electronic ledger allows user to see their deposit and withdrawal history, allowing them to have all relevant information needed at one place.
 7. The ledger analysis the porfolio change and withdrawal and deposit history, and then gives some of the following suggestions: Warning for spending crypto while its price is one of the lowest ever inputed, or saying that its a good time to exchange it to real money. (basically DCA with a conclusion)
-#### Appendix for Criteria A
+## Appendix for Criteria A
 MEETING ONE WITH THE CLIENT AND AGREEMENTS FROM IT
 ![](https://github.com/AleksandarDzudzevic/Project_ideas-plans/blob/main/Project_1_meeting1.jpg)
-MLA CITATIONS FOR THE PROPOSED SOLUTION TEXT (why python / why solana)
+MLA CITATIONS FOR THE PROPOSED SOLUTION TEXT (Why Python?(1) / Why Solana?(2))
 
 1)
 
