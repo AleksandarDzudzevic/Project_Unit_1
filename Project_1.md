@@ -16,7 +16,7 @@ I will design and make a digital and easy to use crypto ledger for a client who 
 
 Why Python? : The reason why we chose Python as the language that we will use for this is simple. It perfectly alligns with our values and main benefits of our program. It is beginner-friendly (one of the reasons why we added the InveSOL analisys so that even the beginners can invest at a high level). It is fast, just like our program which tries to make the execution time as fast as possible(ex. most while loops are replaced by a faster option (for)).
    
- Sky is the limit!!! Just like python which has so many features and cool options, InveSOL.py team aims to make InveSOL app that will constantly develop and get new features which will help more SOLANA investors reach their goals.
+ Sky is the limit!!! Just like python which has so many features and cool options, InveSOL.py team aims to make InveSOL app that will constantly develop and get new features which will help more SOLANA investors reach their goals.(1)
 
 ## Crypto choice
 Like previously mentioned, Ms.Sato is open to explore crypto currency of developers choice, and we at InveSOL chose SOLANA.
@@ -30,34 +30,7 @@ Compared to it's competitors, Solana performs it's transactions at much faster s
 The avarage transaction fee sits at avarage of only $0.00025 with not a single one being more than 0.01 which makes it a perfect choice for both part-time and full-time crypto investors.
 ###### SECURE
 With more than 2500 transatcions per second, and more than 100 BILLION successful transations,The Solana network is spread over thousands of independent nodes — which means that your transactions are always safe. The safety of your assets is the number ONE priority.
-
-### Resources(Mla citations): 
-Article title:Why Learn Python? Reasons and Benefits of Learning Python
-
-URL: 
-https://www.simplilearn.com/why-learn-python-a-guide-to-unlock-your-python-career-article
-
-Website title: 
-Simplilearn.com
-
-Date accessed: 
-October 3, 2022
-
-Date published: 
-September 08, 2022
-
-Article title:
-Scalable Blockchain Infrastructure: Billions of transactions & counting: Solana: Build crypto apps that scale
-
-URL:
-https://solana.com/
-
-Website title:
-Solana
-
-Date accessed:
-October 3, 2022
-
+(2)
 ## Success Criteria
 1. The electronic ledger is a text-based software (Runs in the Terminal). 
 2. The electronic ledger display the basic description of the cryptocurrency selected. 
@@ -66,6 +39,17 @@ October 3, 2022
 5. The electronic ledger asks the real time price of the coin and then the electronic ledger shows the porfolio value change by using colored and user friendly method of (%) calculating and displaying the : value of current porfolio|(total amount invested(deposits)- expenses in usd$(withdrawls))x100% using the price change from the last SOL price input.
 6. The electronic ledger allows user to see their deposit and withdrawal history, allowing them to have all relevant information needed at one place.
 7. The ledger analysis the porfolio change and withdrawal and deposit history, and then gives some of the following suggestions: Warning for spending crypto while its price is one of the lowest ever inputed, or saying that its a good time to exchange it to real money. (basically DCA with a conclusion)
+#### Appendix for Criteria A
+MEETING ONE WITH THE CLIENT AND AGREEMENTS FROM IT
+![](https://github.com/AleksandarDzudzevic/Project_ideas-plans/blob/main/Project_1_meeting1.jpg)
+MLA CITATIONS FOR THE PROPOSED SOLUTION TEXT (why python / why solana)
+
+1)
+
+Arora, Shivam. “Why Learn Python? Reasons and Benefits of Learning Python.” Simplilearn.com, Simplilearn, 8 Sept. 2022, https://www.simplilearn.com/why-learn-python-a-guide-to-unlock-your-python-career-article. 
+
+2)
+“Scalable Blockchain Infrastructure: Billions of Transactions &amp; Counting: Solana: Build Crypto Apps That Scale.” Solana, https://solana.com/. 
 # Criteria B: Design
 
 ## System Diagram
