@@ -62,9 +62,9 @@ Arora, Shivam. “Why Learn Python? Reasons and Benefits of Learning Python.” 
 |1|   Non-Functional testing|Performance testing|Identify possible changes in code which would make it faster and which would lower the loading time|Analysed all functions of the program and focused on those which take more than 0.2 sec to perform and further analysed them| The outcome was that the procedure was a success, I got rid of 2 while loops and changed them into for loops which a bit faster 
 |2|   Non-Functional testing|Usability testing|without interfering, see if there is anything which would make the test user struggle(uncleat messages?instructions) and work. on that|Test user 001 used the program and shared its concerns| 2 unclear messages where changed and one print color as well in order to highlight the importance of the message that it stated
 |3|   Non-Functional testing|Usability testing|Same as test(2) just hopefully other suugestions since it is a differnet person testing it this time|Test user 002 used the program and shared its concerns| Added a link for the current SOLANA price to every messages which asks for the real-time price
-|4|Functional testing||||
-|5|Functional testing||||
-|6|Functional testing||||
+|4|Functional testing|Unit Testing(deposit/withdraw)|See if there is something that can be improved and something that is not working in deposit/withdrawal part of the program and if there is, fix it|Start the program and specificly run the deposit/withdrawal part and depo/withdrawal overview option and see if everything is correct| Found that there was a mistake in the fromula used for porfolio overview for the porfolio change option, and fixed it so now it works properly
+|5|Functional testing|Integration testing|connect two new options to the main program and see if everything works properly|Connect the programs which contain these two features and call them in the main tab program which is connected to thwe main|Everything worked properly, no problems appeared 
+|6|Functional testing|System testing|Test the whole program now that it is finally finished and everything should work properly|Because of the feature of the program to return to the menu tab, testing of every feature will be done in the same run|Everything worked well no problems occured
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
@@ -93,8 +93,8 @@ Arora, Shivam. “Why Learn Python? Reasons and Benefits of Learning Python.” 
 |22|Finishing touch (session 1)|Improve user instructions by using suggestions from non-functional testings performed by test users earlier today|15 min|Oct7|C
 |23|Testing (session 2)|Analyze 3 functional testings(1 Unit Testing(menu_tab),1 Integration Testing(integrating final part of the priogram and pluging everything into the main), and 1 full System testing) and take notes which will later on help with final code modification|20min|Oct 8|B
 |24|Finishing touch (session 2)|Implement notes taken from (23) functional tests and officially finish InveSol.py v1|30min|Oct 8|C
-|25|||||
-|26|||||
+|25|Flow diagrams |Add three flow diagrams that represent different parts of the program|40min|Oct 9|B
+|26|Add code parts that solved problems that client had|Have three unique code functions that represent solutions to some parts of the criteria stated by client|10 min|Oct 9|C
 |27|||||
 
 
