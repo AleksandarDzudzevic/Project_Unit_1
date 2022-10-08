@@ -95,7 +95,8 @@ Arora, Shivam. “Why Learn Python? Reasons and Benefits of Learning Python.” 
 |24|Finishing touch (session 2)|Implement notes taken from (23) functional tests and officially finish InveSol.py v1|30min|Oct 8|C
 |25|Flow diagrams |Add three flow diagrams that represent different parts of the program|40min|Oct 9|B
 |26|Add code parts that solved problems that client had|Have three unique code functions that represent solutions to some parts of the criteria stated by client|10 min|Oct 9|C
-|27|||||
+|27|Add tools used in the program|And as many of the tools used in program|5 min|Oct 9|C
+|28|||||
 
 
 
