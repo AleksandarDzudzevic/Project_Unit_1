@@ -140,7 +140,7 @@ Ascii art for messages in every function of code
 
 
 
-## Client asked for stable and secure login system (Added the register option)
+## Client asked for stable and secure login system (Added the register option after meeting 1)
 ```.py
 import hmac
 from PROJECT_1_porfolio_change import porfolio_change
