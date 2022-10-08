@@ -108,7 +108,7 @@ Arora, Shivam. “Why Learn Python? Reasons and Benefits of Learning Python.” 
 
 
 # Criteria C: Development
-## Functions from the program & problems which they solved
+
 
 ## Client asked for stable and secure login system (Added the register option)
 ```.py
