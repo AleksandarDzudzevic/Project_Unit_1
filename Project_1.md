@@ -392,7 +392,7 @@ def porfolio_change()->str:
 
 ```
 ## Video using InveSOL.py
-https://drive.google.com/drive/u/0/my-drive
+https://drive.google.com/file/d/1yKr-0h7QhhV6QojkpTspADSb3nnCYlsf/view?usp=sharing
 I can not upload it because of the size but I have it and I am available to show it to client at any time
 ### Short version of the video can be donloaded, and is in this repository name: shortvideoproject
 ## Appendix for Criteria C:
