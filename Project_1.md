@@ -393,6 +393,7 @@ def porfolio_change()->str:
 ```
 ## Video using InveSOL.py
 I can not upload it because of the size but I have it and I am available to show it to client at any time
+### Short version of the video can be donloaded, and is in this repository name: shortvideoproject
 ## Appendix for Criteria C:
 MLA citation of websites used for the code
 “HMAC - Keyed-Hashing for Message Authentication¶.” Hmac - Keyed-Hashing for Message Authentication - Python 3.10.7 Documentation, https://docs.python.org/3/library/hmac.html. + Alesandro's help setting it up
